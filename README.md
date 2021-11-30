@@ -1,2 +1,5 @@
 # MachineService
-Nuget Packages to Download: Microsoft.VisualStudio.Web.CodeGeneration.Design, Microsoft.EntityFrameworkCore.Tools, Microsoft.EntityFrameworkCore.SqlServer
+Nuget Packages to Download: 
+1. Microsoft.VisualStudio.Web.CodeGeneration.Design 
+2. Microsoft.EntityFrameworkCore.Tools
+3. Microsoft.EntityFrameworkCore.SqlServer

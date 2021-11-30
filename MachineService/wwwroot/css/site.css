@@ -1,0 +1,29 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.custom-form-seperator {
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    grid-column-gap: 30px;
+    grid-row-gap: 10px;
+}
+
+.custom-form-submit {
+    margin: 20px 0px;
+}
